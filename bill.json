@@ -1,0 +1,93 @@
+[{
+		"customerName":	"Customer 1",
+		"items":	[{
+				"itemId":	55234,
+				"itemName":	"Potatoes",
+				"quantity":	20
+			}, {
+				"itemId":	56234,
+				"itemName":	"Spinach",
+				"quantity":	5
+			}]
+	}, {
+		"customerName":	"Customer 2",
+		"items":	[{
+				"itemId":	11234,
+				"itemName":	"Milk",
+				"quantity":	1
+			}, {
+				"itemId":	12234,
+				"itemName":	"Cheese",
+				"quantity":	5
+			}]
+	}, {
+		"customerName":	"Customer 3",
+		"items":	[{
+				"itemId":	12234,
+				"itemName":	"Cheese",
+				"quantity":	5
+			}, {
+				"itemId":	42234,
+				"itemName":	"Bread",
+				"quantity":	3
+			}]
+	}, {
+		"customerName":	"Customer 4",
+		"items":	[{
+				"itemId":	44234,
+				"itemName":	"Pasta",
+				"quantity":	2
+			}, {
+				"itemId":	44212,
+				"itemName":	"Pasta Sauce",
+				"quantity":	1
+			}]
+	}, {
+		"customerName":	"Customer 5",
+		"items":	[{
+				"itemId":	21345,
+				"itemName":	"Rice",
+				"quantity":	5
+			}, {
+				"itemId":	51234,
+				"itemName":	"Carrots",
+				"quantity":	10
+			}, {
+				"itemId":	52234,
+				"itemName":	"Tomatoes",
+				"quantity":	10
+			}, {
+				"itemId":	55234,
+				"itemName":	"Potatoes",
+				"quantity":	12
+			}, {
+				"itemId":	13265,
+				"itemName":	"Olive Oil",
+				"quantity":	1
+			}]
+	}, {
+		"customerName":	"Customer 6",
+		"items":	[{
+				"itemId":	52234,
+				"itemName":	"Tomatoes",
+				"quantity":	15
+			}]
+	}, {
+		"customerName":	"Sapnil",
+		"items":	[{
+				"itemId":	31567,
+				"itemName":	"Shampoo",
+				"quantity":	2
+			}, {
+				"itemId":	56290,
+				"itemName":	"Apples",
+				"quantity":	5
+			}]
+	}, {
+		"customerName":	"Surya",
+		"items":	[{
+				"itemId":	13234,
+				"itemName":	"Cheese",
+				"quantity":	3
+			}]
+	}]
